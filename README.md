@@ -1,2 +1,2 @@
-# mpa_analysis
-Code for analysis of mpa atlantis runs
+# dispersal
+Code for implementing dispersal routine in mpa atlantis runs
