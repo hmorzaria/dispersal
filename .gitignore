@@ -1,0 +1,36 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+# Example code in package build process
+*-Ex.R
+# RStudio files
+.Rproj.user/
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+#Excel files
+.xls
+.xlsx
+#image files
+.png
+.tif
+.tfw
+.tif.aux.xml
+.tif.xml
+#shape files
+.shp
+.xml
+.dbf
+.prj
+.sbn
+.sbx
+.shp.xml
+.shx
+.CPG
+.Rproj.user
+packrat/lib*/
